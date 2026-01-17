@@ -143,7 +143,6 @@ def main():
 
     
     plt.figure()
-    
 
     plt.plot(x, y_lin, label="Linear: y = ax + b")
     plt.plot(x, y_quad, label="Quadratic: y = ax² + bx + c")
